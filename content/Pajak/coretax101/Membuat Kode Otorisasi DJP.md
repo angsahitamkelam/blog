@@ -48,11 +48,11 @@ Password dan Kode Otorisasi DJP bisa sama. **Tapi saran saya, tolong dibedakan d
 6. Sertel sudah valid dan bisa segera digunakan
 
 > [!info] Selanjutnya
-> > [[4 Menambahkan Daftar Keluarga di Coretax]]
+> > [[Menambahkan Daftar Keluarga di Coretax]]
 
 
 ---
-- 🤔Tulisan ini bukan panduan resmi, silakan baca [[The Map is Not The Territory - Blog|The Map is Not The Territory]] sebagai alasan logisnya
-- 😁Fitur komentar belum saya buat. Jika ada kesalahan petunjuk/penulisan silakan dm di thread @hanung.teguh
-- ⚠️Saya tidak menawarkan jasa konsultasi. So, hati-hati apabila ada yg tiba-tiba nge-dm kamu. Bisa jadi itu impostor
+- 🤔Tulisan ini adalah catatan pribadi yg berdasarkan pengalaman. Bukan panduan resmi, selain itu bisa jadi ada kesalahan dalam penulisannya. Saya sudah menuangkan hal ini dalam [[The Map is Not The Territory - Blog|The Map is Not The Territory]] sebagai alasan logisnya
+- 😁Kolom komentar belum tersedia. Jika menemukan kesalahan data atau ketik, silakan colek lewat DM Threads di @hanung.teguh.
+- ⚠️Saya tidak menawarkan jasa konsultasi. Hati-hati apabila ada yg tiba-tiba nge-dm kamu. Bisa jadi itu impostor
 
