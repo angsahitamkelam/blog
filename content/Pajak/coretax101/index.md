@@ -14,7 +14,7 @@ Beberapa hal sebelum kamu mempelajari skill ini:
 
 1. Pastikan kamu sudah memiliki NPWP terdaftar. Jika belum kamu bisa cek [[Panduan untuk daftar NPWP]] 
 2. [[Menu Basic Coretax]] 
-3. [Panduan Login Coretax]] 
+3. [[Panduan Login Coretax]] 
 4. [[Membuat Kode Otorisasi DJP]] 
 5. [[Menambahkan Daftar Keluarga di Coretax]]
 6. [[Login Coretax Istri]]
