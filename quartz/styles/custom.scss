@@ -1,3 +1,52 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+// quartz/styles/custom.scss
+
+article {
+  // Ukuran huruf & gaya garis (berlaku untuk semua mode)
+  h1 {
+    font-size: 2.2rem;
+    color: #e63946;
+    border-bottom: 2px solid currentColor;
+    padding-bottom: 0.3rem;
+  }
+
+  h2 {
+    font-size: 1.8rem;
+    color: #457b9d;
+    border-bottom: 1.5px dashed currentColor;
+    padding-bottom: 0.25rem;
+  }
+
+  h3 {
+    font-size: 1.5rem;
+    color: #2a9d8f;
+    border-bottom: 1px dotted currentColor;
+    padding-bottom: 0.2rem;
+  }
+
+  h4 {
+    font-size: 1.25rem;
+    color: #e76f51;
+  }
+
+  h5 {
+    font-size: 1.1rem;
+    color: #9d4edd;
+  }
+
+  h6 {
+    font-size: 0.95rem;
+    color: #6c757d;
+  }
+}
+
+// Override warna khusus Dark Mode
+:root[saved-theme="dark"] article {
+  h1 { color: #ff758f; }
+  h2 { color: #a8dadc; }
+  h3 { color: #90e0ef; }
+  h4 { color: #f4a261; }
+  h5 { color: #c77dff; }
+  h6 { color: #adb5bd; }
+}
