@@ -236,7 +236,12 @@ plugins:
       position: footer
       priority: 50
   - source: "@quartz-community/recent-notes"
-    enabled: false
+    enabled: true
+    options:
+      limit: 5
+    layout:
+      position: right
+      priority: 40
   - source: "@quartz-community/spacer"
     enabled: true
     options: {}
@@ -290,7 +295,9 @@ layout:
       exclude:
         - reader-mode
       positions:
-        right: []
+        right:
+          - graph
+          - backlinks
     tag:
       exclude:
         - reader-mode
