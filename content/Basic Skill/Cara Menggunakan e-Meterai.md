@@ -13,7 +13,7 @@ Dalam menggunakan aplikasi berbasis web, kadang2 kamu harus upload dokumen terte
 Untungnya sejak tahun 2023 sudah ada e-materai!
 
 Kabar buruknya ketika saya mengetik keyword `e-meterai` beberapa link ternyata mencurigakan:
-![[Search e-meterai.png]]{width=487}
+![[Search e-meterai.png|386]]
 #### So, ini beberapa hal terkait e-meterai:
 - Berbasis internet, so `no internet = no e-meterai`
 - Dikelola oleh PERURI: https://www.peruri.co.id
@@ -30,16 +30,23 @@ Kabar buruknya ketika saya mengetik keyword `e-meterai` beberapa link ternyata m
 
 #### Panduan e-Meterai di situs resminya
 1. Silakan ke situs > Klik Daftar > Pilih Personal > Isi data
-	![[eMeterai Daftar.png]]
-![[CleanShot 2026-09-30 at 08.28.44@2x.png]]
-2. Login > Silakan beli terlebih dahulu![[eMeterai Beli.png]]
-	![[eMeterai Bayar.png]]{align=block-left width=384}
+	![[eMeterai Daftar.png|559]]
+	
+	![[eMeterai Personal.png|562]]
+
+2. Login > Silakan beli terlebih dahulu![[eMeterai Beli.png|600]]
+
+	![[eMeterai Bayar.png|460]]
+
 3. Matrix Pembubuhan Meterai
-	![[CleanShot 2026-09-30 at 08.44.25@2x.png]]
+	![[eMeterai Alur.png|597]]
+
 4. Rincian Dokumen
-	![[CleanShot 2026-09-30 at 08.46.04@2x.png]]
+	![[eMeterai Daftar Dokumen.png|604]]
+
 5. Penempatan Meterai
-	![[CleanShot 2026-09-30 at 08.54.02@2x.png]]
+	![[eMeterai Contoh Dokumen.png|531]]
+
 6. Ikuti Sampai Selesai
 ---
 - 🤔Tulisan ini adalah catatan pribadi yg berdasarkan pengalaman. Bukan panduan resmi, selain itu bisa jadi ada kesalahan dalam penulisannya. Saya sudah menuangkan hal ini dalam [[The Map is Not The Territory - Blog|The Map is Not The Territory]] sebagai alasan logisnya

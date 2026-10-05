@@ -19,10 +19,10 @@ Terkait:
 	![[Menu Informasi Umum - Edit.png]]
 
 3. Scroll ke Informasi Umum > Pastikan semua data yg berbintang terisi > Validasi Dukcapil
-	![[Pasted image 20260925145625.png]]
+	![[coretax - validasi dukcapil.png]]
 
 4. Scroll ke Unit Pajak Keluarga > Silakan tambah, atau edit/lihat/hapus
-	![[Pasted image 20260925145813.png]]
+	![[coretax - Data Unit Keluarga.png]]
 
 5. Isian data masing2 keluarga > Pastikan benar > Klik Simpan
 	![[Rincian Data Unit Keluarga.png]]

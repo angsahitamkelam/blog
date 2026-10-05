@@ -3,21 +3,21 @@ title: Coretax 101
 ---
 Post ini terkait dengan Skill Basic menggunakan Coretax, Sistem Informasi DJP untuk memenuhi hak dan menjalankan [[kewajiban wajib pajak]].
 
-Beberapa hal sebelum kamu mempelajari skill ini:
-- Coretax adalah aplikasi berbasis web, so `no internet = no coretax`.
-- alamatnya adalah `https://coretaxdjp.pajak.go.id`. Hati-hati dengan alamat palsu.
-- sensitif dengan huruf besar/kecil. Misalnya email kamu `hanungpajak@gmail.com` tidak sama dengan `HANUNGPAJAK@GMAIL.COM`. Iya menyebalkan. Tapi itulah limitasinya. So enjoy aja.
-- menggunakan beberapa karakter khusus untuk membuat password/passphrase. Biasanya karakter yg bisa dipakai adalah `!@#$%`, selain itu tidak bisa.
-- selalu update, bisa jadi panduan yg sekarang akan berbeda dengan 2-3 bulan lagi.
-- segala info yg ada disini gratis
+1. [[Tips Menggunakan Coretax]]
+2. [[Panduan untuk daftar NPWP]] 
+3. [[Menu Basic Coretax]] 
+4. [[Panduan Login Coretax]] 
+5. [[Membuat Kode Otorisasi DJP]] 
+6. [[Menambahkan Daftar Keluarga di Coretax]]
+7. [[Login Coretax Istri]]
+8. [[Melihat Bukti Potong]]
+9. [[Impersonating Coretax]]
+10. [[Mengubah No HP dan email di Coretax]]
+11. [[Mengubah Keterangan Omzet Per Tahun]]
+12. Mengenali [[Scam Perpajakan]]
+13. Mengenali [[Whatsapp dari KPP-AR]]
+14. 
 
 
-1. Pastikan kamu sudah memiliki NPWP terdaftar. Jika belum kamu bisa cek [[Panduan untuk daftar NPWP]] 
-2. [[Menu Basic Coretax]] 
-3. [[Panduan Login Coretax]] 
-4. [[Membuat Kode Otorisasi DJP]] 
-5. [[Menambahkan Daftar Keluarga di Coretax]]
-6. [[Login Coretax Istri]]
-7. [[Melihat Bukti Potong]]
-8. [[Impersonating Coretax]]
-9. [[8 Mengubah No HP dan email di Coretax]] x
+>[!info] Skill Next Level
+>> [[Pajak/Layanan Administrasi Perpajakan/index|Layanan Administrasi Perpajakan]]

@@ -1,12 +1,23 @@
 ---
 title: Panduan Layanan Administrasi Perpajakan
 ---
-Layanan Coretax sudah bisa diakses dimana saja, kapan saja. Dengan catatan: Harus ada internet.
+Tulisan di folder ini adalah panduan bagaimana memanfaatkan layanan administrasi perpajakan di coretax. Kamu sebagai wajib pajak, bisa mengajukan permohonan secara mandiri.
 
-Layanan KPP sudah borderless, kamu bisa submit dokumen permohonan di semua KPP. Dengan catatan:
-- tidak membahas [[SP2DK]]
-- Hanya untuk layanan terkait tahun pajak 2025 keatas
+Syarat menggunakan layanan ini:
+1. Ada koneksi internet -> disarankan menggunakan desktop
+2. Sudah melakukan [[Aktivasi Coretax]] atau sudah bisa [[Panduan Login Coretax|login coretax pribadi]] maupun coretax [[Impersonating Coretax|impersonating]]
+3. sudah [[Membuat Kode Otorisasi DJP]]
 
-Kadang fitur berlimpah, tapi jarang dibahas bagaimana cara menggunakannya, bagaimana sistem di balik permohonan tersebut. Jadinya mirip dengan [[Cargo Cult, Sebuah Ritualitas Tanpa Esensi|Sekte Kargo]], melakukan sesuatu tanpa memahami esensinya.
+Daftar panduan layanan administrasi:
+1. [[Proses Permohonan Wajib Pajak Non Aktif - Wanita Kawin Bergabung Dengan NPWP Suami|Permohonan Non Aktif Istri]]
+2. [[Permohonan Surat Keterangan Fiskal]]
+3. [[Permohonan Konfirmasi Status Wajib Pajak]]
+4. [[Pemberitahuan Penggunaan Norma Penghasilan Neto]]
+5. [[Permohonan SUKET PP 55 - PPh UMKM]]
+6. [[Permohonan SKB PPh]]
+7. [[Permohonan SKB Waris]]
+8. [[Permohonan SKB Hibah]]
+9. [[Laporan Realisasi Investasi]]
 
-Silakan simak prosedur dan bagaimana kisah dibalik layarnya.
+Catatan:
+- Semua materi belum dirilis. Stay tune.

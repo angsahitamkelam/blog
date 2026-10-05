@@ -41,7 +41,7 @@ Keterangan:
 
 Keterangan: Impersonating perusahaan
 >[!info] Selanjutnya
->> [[8 Mengubah No HP dan email di Coretax]]
+>> [[Mengubah No HP dan email di Coretax]]
 
 --- 
 - [[Mohon disimak dulu]]

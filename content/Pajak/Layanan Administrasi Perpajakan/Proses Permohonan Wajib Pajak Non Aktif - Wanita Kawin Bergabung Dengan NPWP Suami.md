@@ -22,7 +22,7 @@ Silakan baca [[Wajib Pajak Non Aktif]] agar kamu lebih memahami apa itu Wajib Pa
 - Dapat diajukan di semua KPP/KP2KP di Indonesia selama hari kerja dengan melengkapi dokumen cetak. -> cek [[Daftar Alamat dan Kontak Kantor Pajak]]
 ### Catatan 📝
 - Tidak ada biaya terhadap layanan ini
-- Proses permohonan dilakukan oleh KPP terdaftar. -> [[Coretax - Profil Saya.png|Cek KPP Terdaftar]]
+- Proses permohonan dilakukan oleh KPP terdaftar. -> [[coretax - Profil Saya.png|Cek KPP Terdaftar]]
 - [[Daftar Alamat dan Kontak Kantor Pajak]] apabila ingin menghubungi KPP Terdaftar
 - Prosedur 5 hari kerja, hasil diterima melalui coretax pribadi atau melalui email.
 - Alasan penolakan permohonan:
