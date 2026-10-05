@@ -1,6 +1,11 @@
 ---
 title: Pajak 101
 ---
-Di topik ini kamu akan saya pandu untuk mempelajari dan memahami terkait perpajakan. Disini akan saya bagi berdasarkan levelnya.
+Topik di folder ini secara bertahap. Semoga dengan mengenalkan materi pajak secara berurutan kamu jadi lebih paham.
 
-Untuk memudahkan saya, iya ini emang catatan belajar, saya akan memakai kerangka [[The Wealth Ladder]]
+1. [[Pajak Pusat dan Pajak Daerah]]
+2. [[Objek Pajak]]
+3. [[Bukan Objek Pajak]]
+4. [[Penghasilan Tidak Kena Pajak]]
+5. [[Penghasilan Kena Pajak]]
+6. [[Tarif Pajak Penghasilan]]
