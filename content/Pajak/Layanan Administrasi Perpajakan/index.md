@@ -9,7 +9,7 @@ Syarat menggunakan layanan ini:
 3. sudah [[Membuat Kode Otorisasi DJP]]
 
 Daftar panduan layanan administrasi:
-1. [[Proses Permohonan Wajib Pajak Non Aktif - Wanita Kawin Bergabung Dengan NPWP Suami|Permohonan Non Aktif Istri]]
+1. [[Wajib Pajak Non Aktif - Wanita Kawin Bergabung Dengan NPWP Suami|Permohonan Non Aktif Istri]]
 2. [[Permohonan Surat Keterangan Fiskal]]
 3. [[Permohonan Konfirmasi Status Wajib Pajak]]
 4. [[Pemberitahuan Penggunaan Norma Penghasilan Neto]]

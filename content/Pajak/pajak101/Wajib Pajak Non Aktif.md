@@ -26,8 +26,8 @@ Wajib Pajak Non Aktif adalah Wajib Pajak yg tidak memenuhi persyaratan subjektif
 
 ### Proses Permohonan Non Aktif
 
-1. [[Proses Permohonan Wajib Pajak Non Aktif - Wanita Kawin Bergabung Dengan NPWP Suami|Wanita Kawin Bergabung Dengan NPWP Suami]]
-2. [[Proses Permohonan Wajib Pajak Non Aktif - Menjadi Subjek Pajak Luar Negeri|Menjadi Subjek Pajak Luar Negeri]]
+1. [[Wajib Pajak Non Aktif - Wanita Kawin Bergabung Dengan NPWP Suami|Wanita Kawin Bergabung Dengan NPWP Suami]]
+2. [[Wajib Pajak Non Aktif - Menjadi Subjek Pajak Luar Negeri|Menjadi Subjek Pajak Luar Negeri]]
 3. 
 
 

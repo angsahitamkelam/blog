@@ -12,6 +12,10 @@ Sebagai istri, kamu memiliki beberapa pilihan: [[Menjalankan kewajiban perpajaka
 - membuat surat setoran pajak (misalnya untuk membayarkan [[PPh Dividen]], surat setoran pajak untuk pengalihan hak atas tanah dan atau bangunan)
 ##### Dengan Non aktif maka:
 - kewajiban pelaporan SPT Tahunan hanya ada di suami. Artinya penghasilan kamu dilaporkan di SPT Tahunannya suami.
+### Apa yg Sebaiknya Dilakukan Sebelum Mengajukan Permohonan?
+- [[Panduan Login Coretax|Login Coretax Suami]]
+- [[Menambahkan Daftar Keluarga di Coretax]] -> Masukkan NIK istri sebagai tanggungan
+
 ### Dokumen yg dipersiapkan 📄:
 - wanita kawin yg ingin bergabung dengan NPWP suami
 	- [[Surat Pernyataan Non Aktif.pdf]] -> Bermaterai 10rb -> cek [[Cara Menggunakan e-Meterai]]

@@ -31,7 +31,7 @@ Pada dasarnya pajak itu pungutan dari pemerintah kepada masyarakat. Sedangkan pe
 
 Tulisan di web ini lebih banyak ke pajak pusat.
 
-Saat ini masih fokus ke materi Pajak Penghasilan
+Saat ini masih fokus di materi [[Pajak Penghasilan (PPh)]]
 
 --- 
 - [[Mohon disimak dulu]]

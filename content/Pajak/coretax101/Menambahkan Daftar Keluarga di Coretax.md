@@ -30,7 +30,7 @@ Terkait:
 	Catatan:
 	- Status hubungan keluarga: silakan pilih, biasanya ya anak/istri/mertua/ortu
 	- Status unit perpajakan:
-		- Tanggungan jika tidak ingin melaksanakan kewajiban pajak terpisah. Artinya istri bergabung dengan NPWP suami
+		- Tanggungan [[Wajib Pajak Non Aktif - Wanita Kawin Bergabung Dengan NPWP Suami|jika istri bergabung dengan NPWP suami]]
 		- Selain itu artinya memiliki NPWP sendiri
 	- Status PTKP
 		- TK/0 untuk anak-istri yg dalam tanggungan
