@@ -9,6 +9,9 @@ Dalam postingan ini akan saya kenalkan beberapa menu basic. Coretax for mortals.
 ##### Portal Saya
 ![[Menu Portal Saya.png|635]]
 
+##### Dokumen Saya
+![[coretax - dokumen saya.png]]{width=646}
+
 ##### SPT
 ![[Menu SPT.png|640]]
 

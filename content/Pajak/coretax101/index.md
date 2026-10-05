@@ -11,6 +11,10 @@ Post ini terkait dengan Skill Basic menggunakan Coretax, Sistem Informasi DJP un
 6. [[Menambahkan Daftar Keluarga di Coretax]]
 7. [[Login Coretax Istri]]
 8. [[Melihat Bukti Potong]]
+	- [[Bukti Potong Bulanan Karyawan Tetap]]
+	- [[Bukti Potong Tahunan Karyawan Tetap]]
+	- [[Bukti Potong Karyawan Tidak Tetap - Freelancer - Affiliator]]
+	- 
 9. [[Impersonating Coretax]]
 10. [[Mengubah No HP dan email di Coretax]]
 11. [[Mengubah Keterangan Omzet Per Tahun]]
