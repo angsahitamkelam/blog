@@ -4,24 +4,17 @@ Terkait:
   - "[[PER 7 2025]]"
   - "[[PMK 18 2021]]"
 ---
-#### Definisi
+### Definisi
 
 Wajib Pajak Non Aktif adalah Wajib Pajak yg tidak memenuhi persyaratan subjektif dan objektif tapi belum dilakukan penghapusan NPWP.
-
 #### Kriteria WP Non Aktif:
 
-- Tidak lagi melakukan kegiatan usaha/pekerjaan bebas, karena sudah menghentikan usaha/pekerjaan bebas tersebut
+- Wajib Pajak yg sudah tidak bekerja dan tidak berpenghasilan
 - Tidak memiliki penghasilan/penghasilannya berada di bawah [[Penghasilan Tidak Kena Pajak (PTKP)]]
 - WNI yg berniat menjadi [[Subjek Pajak Luar Negeri]] namun belum memenuhi syarat sebagai Subjek Pajak Luar Negeri
-- WNI yg telah menjadi Subjek Pajak Luar Negeri
-- WNI yg tidak memenuhi persyaratan subjektif dan objektif -> Meninggal dunia
+- [[Permohonan Hapus NPWP karena meninggal dunia|Wajib Pajak yg dalam proses hapus NPWP]]
 - WP OP wanita kawin yg telah memiliki NPWP tapi memilih bergabung dengan NPWPnya suami
-- WP Badan yg tidak memenuhi persyaratan subjektif dan objektif yg dalam proses penghapusan NPWP
-- Instansi Pemerintah yg tidak memenuhi persyaratan sebagai pemotong dan/atau pemungut namun belum dilakukan penghapusan NPWP
-
-#### Pengaktifan kembali
-
-Wajib Pajak yg non aktif dapat aktif kembali dengan cara
+#### Meskipun sudah berstatus Non Aktif, dapat aktif kembali dalam hal
 - Secara Jabatan
 	- Melakukan pelaporan SPT
 	- Mendapatkan bukti potong pajak/faktur pajak yg bagi Wajib Pajak Badan
@@ -29,20 +22,15 @@ Wajib Pajak yg non aktif dapat aktif kembali dengan cara
 	- melakukan pembayaran pajak (misalnya pembayaran atas [[pengalihan hak atas tanah dan atau bangunan]] bagi WP OP)
 - Non Jabatan
 	- Pengajuan aktivasi kembali
+	- [[Proses Pisah Harta - Memilih Terpisah|Wanita yg sebelumnya bergabung dengan NPWP suami tapi memilih Pisah Harta - Memilih Terpisah]]
 
-#### Gimana biar dapat status Non Aktif
+### Proses Permohonan Non Aktif
 
-##### Secara pasif
-Selamat 5 tahun berturut-turut:
-- tidak lapor SPT
-- tidak ada pemotongan/pemungutan pajak -> No job resmi
-- tidak ada pembayaran pajak
-- tidak memiliki tunggakan pajak dan/atau tidak sedang melakukan upaya hukum
-- tidak sedang dilakukan [[pemeriksaan pajak]], [[pemeriksaan bukti permulaan]], [[penyidikan tindak pidana perpajakan]]
-- tidak mendapatkan fasilitas atau insentif perpajakan
-##### Secara aktif
-1. [[Proses Permohonan Wajib Pajak Non Aktif - Wanita Kawin Bergabung Dengan NPWP Suami]]
-2. 
+1. [[Proses Permohonan Wajib Pajak Non Aktif - Wanita Kawin Bergabung Dengan NPWP Suami|Wanita Kawin Bergabung Dengan NPWP Suami]]
+2. [[Proses Permohonan Wajib Pajak Non Aktif - Menjadi Subjek Pajak Luar Negeri|Menjadi Subjek Pajak Luar Negeri]]
+3. 
+
+
 
 
 ---
