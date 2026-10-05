@@ -22,7 +22,7 @@ Sebagai istri, kamu memiliki beberapa pilihan: [[Menjalankan kewajiban perpajaka
 	- [[Formulir WP Non Aktif.pdf]]
 	- Salinan Akta Nikah/Surat Nikah
 - Pastikan kamu sudah melakukan pelaporan SPT Tahunan 2 tahun terakhir
-- Pastikan tidak ada utang pajak
+- Pastikan tidak ada [[Cara cek Utang Pajak|utang pajak]]
 ### Proses Permohonan ⏩
 #### A. Permohonan secara online 💻
 - Ikuti [[Panduan Login Coretax]]

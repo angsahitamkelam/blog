@@ -14,9 +14,10 @@ Post ini terkait dengan Skill Basic menggunakan Coretax, Sistem Informasi DJP un
 9. [[Impersonating Coretax]]
 10. [[Mengubah No HP dan email di Coretax]]
 11. [[Mengubah Keterangan Omzet Per Tahun]]
-12. Mengenali [[Scam Perpajakan]]
-13. Mengenali [[Whatsapp dari KPP-AR]]
-14. 
+12. [[Cara cek Utang Pajak]]
+13. Mengenali [[Scam Perpajakan]]
+14. Mengenali [[Whatsapp dari KPP-AR]]
+15. 
 
 
 >[!info] Skill Next Level
