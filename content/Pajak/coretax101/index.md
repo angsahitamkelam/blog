@@ -19,5 +19,5 @@ Beberapa hal sebelum kamu mempelajari skill ini:
 5. [[Menambahkan Daftar Keluarga di Coretax]]
 6. [[Login Coretax Istri]]
 7. [[Melihat Bukti Potong]]
-8. [[7 Impersonating Coretax]] x
+8. [[Impersonating Coretax]]
 9. [[8 Mengubah No HP dan email di Coretax]] x

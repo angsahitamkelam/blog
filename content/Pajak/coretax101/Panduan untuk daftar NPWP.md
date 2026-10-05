@@ -47,7 +47,7 @@ Bilang saja ke security bahwa kamu ingin dipandu oleh petugas untuk mendaftarkan
 📝 Starter kit Wajib Pajak badan baru:
 1. Pastikan kamu bisa login coretax menggunakan NPWP Badan Usahanya.
 2. [[Membuat Kode Otorisasi DJP|Membuat Kode Otorisasi DJP]] untuk pengurus utamanya
-3. memahami prinsip [[7 Impersonating Coretax|Impersonating Coretax]]
+3. memahami prinsip [[Impersonating Coretax|Impersonating Coretax]]
 
 #### 🖥️Panduan Mendaftarkan NPWP Online
 Silakan cek youtube. Banyak panduannya kok

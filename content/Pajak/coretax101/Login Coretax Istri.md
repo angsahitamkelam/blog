@@ -9,14 +9,14 @@ Terkait:
 - Selain itu ikuti panduan memasukkan istri dalam daftar tanggungan di [[Menambahkan Daftar Keluarga di Coretax]]
 
 #### Keistimewaan Login Coretax dengan akun istri💅
-- Bisa [[7 Impersonating Coretax]] akun suami. Artinya bisa cek [[Melihat Bukti Potong]] pajaknya suami.
+- Bisa [[Impersonating Coretax]] akun suami. Artinya bisa cek [[Melihat Bukti Potong]] pajaknya suami.
 	- bisa juga istri melaporkan SPTnya suami.
 - Bisa membuat bukti potong sendiri, tapi yg lapor nanti suami.
 - Kewajiban perpajakan ada di suami
 
 #### Bagaimana caranya?🌹
 - Ikuti [[Panduan Login Coretax]] dengan menggunakan NIKnya istri
-- Tampilannya seperti ini, ada [[7 Impersonating Coretax]] akun coretax suami
+- Tampilannya seperti ini, ada [[Impersonating Coretax]] akun coretax suami
 	![[Impersonating.png]]
 
 

@@ -5,7 +5,7 @@ Terkait:
 #### Hal-hal yg harus diketahui terkait login coretax 👇
 - Login menggunakan NIK atau nomor KTP bagi Wajib Pajak Orang Pribadi Dalam Negeri
 - Login coretax Badan menggunakan NPWP 16 digit. Apabila kamu memiliki NPWP lama, nomornya 15 digit. Kamu cukup menambahkan angka 0 di depannya.
-	- Terkait dengan coretax badan usaha, kamu harus memahami [[7 Impersonating Coretax]]
+	- Terkait dengan coretax badan usaha, kamu harus memahami [[Impersonating Coretax]]
 - Coretax adalah aplikasi berbasis web. Jadi tidak ada install ini itu
 
 

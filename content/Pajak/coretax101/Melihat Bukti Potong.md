@@ -26,12 +26,12 @@ Terkait:
 	![[Menu Bukti Potong Saya.png]]
 
 4. Catatan:
-	- Istri bisa melihat bukti potong suami dengan cara [[7 Impersonating Coretax]], tapi suami tidak bisa melihat bukti potong istri
+	- Istri bisa melihat bukti potong suami dengan cara [[Impersonating Coretax]], tapi suami tidak bisa melihat bukti potong istri
 	- Hati2 jika kamu sudah bekerja, sudah dipotong pajaknya oleh perusahaan tapi tidak ada bukti potong di coretax kamu.
 
 
 >[!info] Selanjutnya
->> [[7 Impersonating Coretax]]
+>> [[Impersonating Coretax]]
 
 
 --- 
