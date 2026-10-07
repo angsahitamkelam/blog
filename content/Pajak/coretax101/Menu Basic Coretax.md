@@ -21,13 +21,23 @@ Dalam postingan ini akan saya kenalkan beberapa menu basic. Coretax for mortals.
 
 
 ##### Layanan Administrasi
-![[Menu Layanan Administrasi.png|660]]
+
+![[Menu Layanan Administrasi 1.png]]{width=662}
+![[Menu Layanan Administrasi 2.png|660]]
 
 ##### Cek KPP Terdaftar
 ![[coretax - ikhtisar profil.png|665]]
 
 ##### Cek HP-Email Terdaftar > [[Mengubah No HP dan email di Coretax|Panduan ubah HP & email]]
 ![[coretax - email-hp.png]]
+
+##### Proses Create Document
+![[Proses Create Document - PDF.png]]
+
+##### Tanda Tangan Digital
+![[Tanda Tangan Digital.png]]
+
+#####
 
 > [!info] Selanjutnya
 > > [[Membuat Kode Otorisasi DJP|Membuat Kode Otorisasi]]
