@@ -39,17 +39,3 @@ Dua lapisan yang sengaja kami pisahkan:
 
 Hasil simulasi adalah alat bantu pemahaman dan perencanaan. Ini bukan penghitungan resmi, bukan pengganti bukti potong dari pemberi kerja, dan bukan nasihat pajak profesional.
 
-## Status
-
-Tahap prototipe. Mesin hitung sedang dikembangkan dan integrasi Claude API sedang dibangun. Belum dibuka untuk pengguna umum.
-
-## Kenapa Claude
-
-- Membaca dokumen Indonesia yang berantakan dalam konteks panjang — slip gaji dan bukti potong antar pemberi kerja tidak seragam, satu field bisa muncul dengan banyak label berbeda.
-- Ekstraksi terstruktur yang andal lewat tool use, sehingga data dokumen masuk ke skema bertipe, bukan teks bebas — dan bisa langsung dipakai mesin hitung.
-- Keluaran bahasa Indonesia yang cukup jelas untuk wajib pajak yang bukan akuntan.
-
-## Perusahaan
-
-- **Situs:** https://angsahitam.com
-- **Kontak:** hanung@angsahitam.com
