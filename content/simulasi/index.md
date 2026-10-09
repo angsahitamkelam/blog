@@ -4,6 +4,7 @@ description: Alat simulasi pajak untuk wajib pajak orang pribadi di Indonesia.
 enableToc: false
 tags:
   - simulasi
+draft: true
 ---
 
 **Angsa Hitam** membangun alat simulasi pajak untuk karyawan dan wajib pajak orang pribadi di Indonesia.

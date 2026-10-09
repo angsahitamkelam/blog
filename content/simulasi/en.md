@@ -4,6 +4,7 @@ description: Tax simulation software for Indonesian individual taxpayers.
 enableToc: false
 tags:
   - simulasi
+draft: true
 ---
 
 **Angsa Hitam** builds tax simulation software for employees and individual taxpayers in Indonesia.

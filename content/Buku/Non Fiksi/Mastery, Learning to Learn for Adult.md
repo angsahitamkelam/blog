@@ -3,6 +3,7 @@ draft: false
 Terkait:
   - "[[Mastery]]"
 ---
+
 Banyak buku terkait [[Learning to Learn]], contohnya [[a Mind for Numbers]]-nya [[Barbara Oakley]]. Tapi buku-buku itu tidak meninggalkan impresi yg dalam. Mungkin karena saya semakin tua, saya memerlukan buku yg lebih filosofis.
 
 Ketemulah dengan [[Mastery]], buku dari [[Robert Greene]].
