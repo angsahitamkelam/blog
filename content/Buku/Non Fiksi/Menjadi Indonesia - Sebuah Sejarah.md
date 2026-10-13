@@ -63,4 +63,4 @@ Puncaknya, melalui Sumpah Pemuda 1928, rakyat dan kaum terpelajar meleburkan sek
 
 Sayangnya transisi ke kemerdekaan Indonesia itu pondasinya belum kuat. Kondisi ini diperparah dengan trauma penjajahan, feodalisme yg masih mendarah daging dan tingkat pendidikan yg teramat rendah.
 
-Mungkin karena itulah sampai saat ini negara Indonesia masih terbelenggu dan belum bisa 
+Mungkin karena itulah sampai saat ini negara Indonesia masih terbelenggu dan belum bisa maju.
